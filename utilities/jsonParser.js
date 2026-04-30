@@ -36,7 +36,6 @@ const insertQuestionsToDB = async () => {
         await connectDB();
         const questionData = await readQuestions();
         const jobData = await readJobData();
-        console.log(jobData)
         const newData = questionData.questions.map(q => ({...q,  options: JSON.parse(q.options.replace(/'/g, '"'))}));
         if(questionData?.insert){
             await codingQuestions.deleteMany({});
