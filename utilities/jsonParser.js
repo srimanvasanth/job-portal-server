@@ -4,8 +4,8 @@ const codingQuestions = require("../modal/codingQuestions");
 const jobDetails = require("../modal/jobDetails");
 const path = require("path");
 
-const questionsFilePath = path.join(__dirname, "utilities", "coding-questions.txt");
-const jobDetailsFilePath = path.join(__dirname, "utilities", "job-details.txt");
+const questionsFilePath = path.join(__dirname, "coding-questions.txt");
+const jobDetailsFilePath = path.join(__dirname, "job-details.txt");
 
 const readQuestions = async () => {
     try {
