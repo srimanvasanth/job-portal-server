@@ -1,0 +1,22 @@
+{
+  "insert": false,
+  "questions": [
+  {
+    "quesNbr": "1",
+    "question": "What does REST stand for?",
+    "options": "['Representational State Transfer', 'Remote Execution Service Technology', 'Really Easy Simple Transfer', 'None of the above']",
+    "answer": "A"
+  },
+  {
+    "quesNbr": "2",
+    "question": "Which HTTP method is idempotent and used to fully replace a resource?",
+    "options": "['POST', 'PATCH', 'PUT', 'DELETE']",
+    "answer": "C"
+  },
+  {
+    "quesNbr": "3",
+    "question": "What does typeof null return in JavaScript?",
+    "options": "['null', 'undefined', 'object', 'string']",
+    "answer": "C"
+  }]
+}

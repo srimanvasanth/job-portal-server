@@ -1,0 +1,35 @@
+{
+    "insert": false,
+    "jobData": [
+        {
+            "role": "MERN Stack Developer",
+            "company": "TCL Tech",
+            "experience": "2-3 Years",
+            "salary": "6-10 LPA",
+            "location": "Chennai, Tamil Nadu",
+            "posted": "1 week ago",
+            "opening": 5,
+            "jobDesc": [
+                "Experience with MERN/MEAN stack; React.js knowledge from backend/API perspective",
+                "Hands-on with API development & integration (REST/GraphQL, third-party APIs)",
+                "Awareness of SQL/NoSQL databases (MongoDB, PostgreSQL/MySQL)",
+                "Familiarity with authentication (JWT/OAuth), error handling, and performance tuning"
+            ]
+        },
+        {
+            "role": "Full Stack Web Developer",
+            "company": "Vinland Corp",
+            "experience": "2-3 Years",
+            "salary": "8-10 LPA",
+            "location": "Chennai, Tamil Nadu",
+            "posted": "4 days ago",
+            "opening": 2,
+            "jobDesc": [
+                "Experience with frontend and backend web development using React.js and Java/Python",
+                "Experience on RESTful API development",
+                "Knowledge of SQL/NoSQL databases (Azure, PostgreSQL, MySQL, MongoDB)",
+                "Experience in debugging and error handling"
+            ]
+        }
+    ]
+}
